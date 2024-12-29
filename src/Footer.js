@@ -16,7 +16,7 @@ export default function Footer() {
         href="https://github.com/annegleichmann/weather-react"
         target="_blank"
         rel="noreferrer"
-      >
+      >n
         GitHub
       </a>{" "}
       and hosted on{" "}
