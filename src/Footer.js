@@ -17,7 +17,7 @@ export default function Footer() {
         target="_blank"
         rel="noreferrer"
       >
-        n GitHub
+        GitHub
       </a>{" "}
       and hosted on{" "}
       <a
